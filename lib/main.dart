@@ -26,8 +26,8 @@ class _DiceAppState extends State<DiceApp> {
   Widget build(BuildContext context) {
    
     return Scaffold(
-      appBar: AppBar(title:Text('Dicee'), backgroundColor: Colors.red,),
-      backgroundColor: Colors.red,
+      appBar: AppBar(title:Text('Dicee'), backgroundColor: Colors.tealgreen,),
+      backgroundColor: Colors.tealgreen,
       body: Center(child: Row(
         children: <Widget>[
           Expanded(
